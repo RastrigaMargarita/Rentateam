@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Список</string>
+    <string name="title_info">О программе</string>
+    <string name="text_info">Тестовое задание для Rentateam</string>
+    <string name="gettin_data_error">"Ошибка получения данных. "</string>
+    <string name="User">Пользователь</string>
+    <string name="user_image">Фото пользователя</string>
+</resources>

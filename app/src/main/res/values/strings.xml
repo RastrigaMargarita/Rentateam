@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Rentateam</string>
+    <string name="title_home">List</string>
+    <string name="title_info">About application</string>
+    <string name="text_info">Test for Rentateam</string>
+    <string name="urlToServer" translatable="false">https://reqres.in/</string>
+    <string name="gettin_data_error">"Getting data error. "</string>
+    <string name="User">Person</string>
+    <string name="user_image">User image</string>
+</resources>
